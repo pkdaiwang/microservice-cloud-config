@@ -37,7 +37,7 @@ eureka:
 ---
 
 emp:
-  name: 张三
+  name: zhangshan
 
 server:
   port: 8001
